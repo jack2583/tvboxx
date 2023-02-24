@@ -1,0 +1,17 @@
+{
+    "urls":[
+        {
+            "url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/ziyong.json",
+            "name": "自用"
+        },
+        {
+            "url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/xuexi.json",
+            "name": "学习"
+        },
+       {
+            "url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/0206.json",
+            "name": "18岁的乐趣"
+        }
+    ]
+    
+}

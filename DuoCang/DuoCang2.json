@@ -1,0 +1,8 @@
+{
+    "storeHouse":
+    [
+        {"sourceName":"多多公众仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/2.txt"},
+        {"sourceName":"多多聚合仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/3.txt"},
+        {"sourceName":"柠檬仓","sourceUrl":"https://gitlab.com/jack2583/tvboxx/-/raw/main/DuoXian/DuoXian.json"}
+    ]
+}

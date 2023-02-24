@@ -1,0 +1,58 @@
+//此多仓接口列表为便利使用整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处
+{
+    "urls": [
+        {
+            "url": "http://aduo.eu.org/duo/v.json",
+            "name": "🔔切换线路后请手动刷新"
+        },
+        {
+            "url": "https://yydsys.top/duo/v.json",
+            "name": "🏡应用多多家庭版"
+        },  
+        {
+            "url": "http://52bsj.vip:98/cl",
+            "name": "🐹月光宝盒"
+        },
+        {
+            "url": "http://8.210.220.114:8888/down/O58AjFT1OrTq.json",
+            "name": "🐹星辰线路"
+        },          
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "🐹潇洒线路"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "🐹南风线路"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐹吾爱线路"
+        },  
+        {
+            "url": "http://111.67.196.181/mtv/meow.txt",
+            "name": "🐹喵影视线路"
+        },
+        {
+            "url": "https://源享家.ml/46812",
+            "name": "🐹源享家线路"
+        }, 
+        {
+            "url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐹云星日记"
+        },
+        {
+            "url": "https://la.kstore.space/download/2883/0110.txt",
+            "name": "🐹蚂蚁论坛线路"
+        },
+        {
+            "url": "https://agit.ai/66666/mao/raw/branch/master/00/000.m3u8",
+            "name": "🐹分享者线路"
+        },
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "🐹冰河线路"
+        }
+    ]
+}

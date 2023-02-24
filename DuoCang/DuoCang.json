@@ -1,0 +1,7 @@
+{
+    "storeHouse":
+    [
+        {"sourceName":"多多优选仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/1.txt"},
+        {"sourceName":"多多预备仓","sourceUrl":"https://gitlab.com/duomv/apps/-/raw/main/4.txt"}
+    ]
+}

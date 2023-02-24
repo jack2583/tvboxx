@@ -1926,7 +1926,6 @@ CHC家庭影院,http://39.134.19.252:6610/yinhe/2/ch00000090990000002085/index.m
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 广东影视,http://113.64.147.18:808/hls/31/index.m3u8
 佛山影视,http://121.12.115.12/xmplay.fstv.com.cn/live/xingmu20211111163523oBdp.m3u8
-【影视】,#genre#
 NewTV超级影视,http://39.134.65.164/PLTV/88888888/224/3221225644/1.m3u8
 NewTV超级影视,http://39.134.65.179/PLTV/88888888/224/3221225644/1.m3u8
 NewTV超级影视,http://39.134.65.173/PLTV/88888888/224/3221225644/1.m3u8
@@ -2202,7 +2201,6 @@ CCTV-5+体育赛事,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
 新视觉体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 广东体育,http://113.64.147.18:808/hls/1/index.m3u8
-【体育频道】,#genre#
 纬来体育,rtmp://59.124.75.138/sat/tv721
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721
 纬来体育,rtmp://59.124.75.150/sat/tv721
