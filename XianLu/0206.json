@@ -1,10 +1,10 @@
 
 {
-"spider":"./Jar/0206.jar",
+"spider":"https://gitlab.com/jack2583/tvboxx/-/raw/main/TV/Jar/0206.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2phY2syNTgzL3R2Ym94eC9tYWluL1RWLzE4VFYudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRsYWIuY29tL2phY2syNTgzL3R2Ym94eC8tL3Jhdy9tYWluL1RWLzE4VFYudHh0"]}]}],
 
 
 "sites":[
