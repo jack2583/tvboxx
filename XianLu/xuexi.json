@@ -1,14 +1,25 @@
 ﻿{
+  "spider": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Jar/xuexi.jar",
   "sites": [
+   {
+            "key": "dr_兔小贝",
+            "name": "儿童启蒙",
+            "type": 3,
+            "api": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Js/lib/drpy.min.js",
+            "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Js/tuxiaobei.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0
+        },
     {
-      "key": "儿童",
-      "name": "儿童",
+      "key": "幼小",
+      "name": "幼小",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/儿童.json"
+      "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/youxiao.json"
     },
     {
       "key": "小学",
@@ -18,7 +29,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/小学.json"
+      "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/xiaoxue.json"
     },
     {
       "key": "初中",
@@ -28,7 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/初中.json"
+      "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/chuzhong.json"
     },
     {
       "key": "高中",
@@ -38,17 +49,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/高中.json"
-    },
-    {
-      "key": "学堂",
-      "name": "学堂教育1",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/学堂1.json"
+      "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/gaozhong.json"
     },
     {
       "key": "知识",
@@ -58,17 +59,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/学堂2.json"
-    },
-    {
-      "key": "学习",
-      "name": "学堂教育3",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/学堂3.json"
+      "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/xiaoxue2.json"
     },
     {
       "key": "外语",
@@ -78,17 +69,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/外语.json"
-    },
-    {
-      "key": "少儿",
-      "name": "少儿教育",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cn.kstore.space/download/2998/1/json/小儿教育.json"
+      "ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/waiyu.json"
     },
     {
       "key": "教程",
@@ -110,26 +91,7 @@
       "filterable": 1,
       "ext": "https://cn.kstore.space/download/2998/1/json/少儿教育.json"
     },
-    {
-      "key": "儿童",
-      "name": "儿童乐园",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://cn.kstore.space/download/2998/1/json/儿童乐园.json"
-    },
-{
-			"key": "儿童",
-			"name": "🐯儿童乐园",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
-		},
+
 		{
 			"key": "学习",
 			"name": "📝学习园地",
@@ -138,7 +100,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 1,
-			"ext": "http://45.125.46.61/box/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Ext/xiaoxueyuandi.json"
 		},
 {
         "key": "小苹果",
@@ -496,6 +458,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "http://maoyingshi.cc/api.php",
-  "spider": "https://cn.kstore.space/download/2998/1/jar/教育﹠教程.jar"
+  "wallpaper": "http://maoyingshi.cc/api.php"
+
 }
