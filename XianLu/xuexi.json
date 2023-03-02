@@ -12,8 +12,8 @@
             "filterable": 0
         },
     {
-      "key": "幼小",
-      "name": "幼小",
+      "key": "幼儿",
+      "name": "幼儿",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
