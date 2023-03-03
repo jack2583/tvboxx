@@ -5,8 +5,8 @@
 			"key": "dr_兔小贝",
 			"name": "儿童启蒙",
 			"type": 3,
-            "api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-            "ext": "http://ftyyy.tk/JS/js/兔小贝.js",
+			"api": "https://ftyyy.tk/JS/lib/drpy.min.js",
+			"ext": "http://ftyyy.tk/JS/js/兔小贝.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
@@ -63,7 +63,7 @@
 		},
 		{
 			"key": "知识",
-			"name": "学堂教育2",
+			"name": "知识",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 1,
@@ -82,28 +82,8 @@
 			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/waiyu.json"
 		},
 		{
-			"key": "教程",
-			"name": "教程〔合集〕",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://cn.kstore.space/download/2998/1/json/教程.json"
-		},
-		{
-			"key": "少儿",
-			"name": "少儿〔合集〕",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://cn.kstore.space/download/2998/1/json/少儿教育.json"
-		},
-		{
 			"key": "学习",
-			"name": "📝学习园地",
+			"name": "📝学习",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 0,
@@ -133,7 +113,7 @@
 		},
 		{
 			"key": "教程",
-			"name": "教程〔合集〕",
+			"name": "教程",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 1,
