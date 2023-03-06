@@ -11,6 +11,14 @@
        {
             "url": "https://gitlab.com/jack2583/tvboxx/-/raw/main/XianLu/v.json",
             "name": "综合"
+        },
+       {
+            "url": "http://miaotvs.cn/meow",
+            "name": "喵影视"
+        },
+       {
+            "url": "https://tv.5ye.cc",
+            "name": "二哈"
         }
     ]
     
