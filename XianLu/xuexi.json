@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Jar/xuexi.jar",
+	"spider": "./Jar/Yoursmile.jar",
 	"sites": [
 		{
 			"key": "dr_兔小贝",
