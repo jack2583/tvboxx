@@ -1,17 +1,16 @@
 ﻿{
-	"spider": "./Jar/Yoursmile.jar",
+	"spider": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Jar/Yoursmile.jar",
 	"sites": [
 		{
 			"key": "dr_兔小贝",
 			"name": "儿童启蒙",
 			"type": 3,
-			"api": "https://ftyyy.tk/JS/lib/drpy.min.js",
-			"ext": "http://ftyyy.tk/JS/js/兔小贝.js",
+			"api": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Js/lib/drpy2.min.js",
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Js/兔小贝.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0
 		},
-		{"key":"drpy_js_兔小贝","name":"兔小贝[动漫js]","type":3,"api":"./Js/lib/drpy2.min.js","ext":"./Js/兔小贝.js"},
 		{
 			"key": "幼儿",
 			"name": "幼儿",
