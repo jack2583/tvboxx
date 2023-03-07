@@ -19,27 +19,97 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/youxiao.json"
-		},
-				{
-			"key": "兴趣爱好",
-			"name": "兴趣爱好",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/兴趣爱好.json"
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/幼儿启蒙.json"
 		},
 		{
-			"key": "小学",
-			"name": "小学",
+			"key": "兴趣培养",
+			"name": "兴趣培养",
 			"type": 3,
 			"api": "csp_Bili",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/xiaoxue.json"
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/兴趣培养.json"
+		},
+		{
+			"key": "py_cctv",
+			"name": "🌏央视节目",
+			"type": 3,
+			"api": "py_cctv",
+			"searchable": 0,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Py/py_cctv.py"
+		},
+		{
+			"key": "益智动画",
+			"name": "益智动画",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/益智动画.json"
+		},
+		{
+			"key": "小学语文",
+			"name": "小学语文",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/小学语文.json"
+		},
+		{
+			"key": "小学数学",
+			"name": "小学数学",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/小学数学.json"
+		},
+		{
+			"key": "小学英语",
+			"name": "小学英语",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/小学英语.json"
+		},
+		{
+			"key": "1年级",
+			"name": "1年级",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/1年级.json"
+		},
+		{
+			"key": "2年级",
+			"name": "2年级",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/2年级.json"
+		},
+		{
+			"key": "3年级",
+			"name": "3年级",
+			"type": 3,
+			"api": "csp_Bili",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/3年级.json"
 		},
 		{
 			"key": "初中",
@@ -62,26 +132,6 @@
 			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/gaozhong.json"
 		},
 		{
-			"key": "py_cctv",
-			"name": "🌏央视节目",
-			"type": 3,
-			"api": "py_cctv",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Py/py_cctv.py"
-		},
-		{
-			"key": "知识",
-			"name": "知识",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/xiaoxue2.json"
-		},
-		{
 			"key": "外语",
 			"name": "外语",
 			"type": 3,
@@ -92,18 +142,8 @@
 			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/waiyu.json"
 		},
 		{
-			"key": "学习",
-			"name": "📝学习",
-			"type": 3,
-			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 1,
-			"ext": "https://gitlab.com/jack2583/tvboxx/-/raw/main/Bili/xiaoxueyuandi.json"
-		},
-		{
 			"key": "小苹果",
-			"name": "🍎主力源",
+			"name": "🍎小苹果",
 			"type": 3,
 			"api": "csp_LiteApple",
 			"searchable": 1,
